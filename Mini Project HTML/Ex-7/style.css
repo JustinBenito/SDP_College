@@ -1,0 +1,28 @@
+h2{
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+th{
+    color: black;
+
+}
+
+
+  th,td {
+    font-family: sans-serif;
+    border: 2px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+
+
+  tr{
+    background-color: lightyellow;
+  }

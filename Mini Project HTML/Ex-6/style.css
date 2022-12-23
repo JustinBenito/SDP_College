@@ -1,0 +1,31 @@
+.cont{
+    position: relative;
+}
+
+img{
+    position: absolute;
+width: 100%;
+}
+
+h1{
+    font-size: 50px;
+    position: absolute;
+    color: white;
+    text-decoration-line: underline;
+}
+
+.text{
+    left: 500px;
+    position:absolute;
+    text-align:center;
+    top: 200px;
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
