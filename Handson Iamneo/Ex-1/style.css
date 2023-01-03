@@ -1,0 +1,65 @@
+.back{
+    width: 100%;
+    display: inline-block;
+}
+
+.head-center1{
+    position: absolute;
+    text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.pizza{
+    background-color: orange;
+}
+
+.hpi{
+    text-align: center;
+    color: white;
+}
+
+.ifr{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+
+.kfc{
+    background-color: purple;
+}
+
+.kpi{
+    text-align: center;
+    color: white;
+}
+
+.ifrk{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+
+.salad{
+    background-color: lightblue;
+}
+
+.spi{
+    text-align: center;
+    color: white;
+}
+
+.ifrs{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
