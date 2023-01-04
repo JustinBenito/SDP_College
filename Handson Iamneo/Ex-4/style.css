@@ -1,0 +1,20 @@
+.backgroundImage{
+    width: 100%;
+    display: inline-block;
+    position: relative;
+    z-index: 2;
+
+}
+
+#yourName{
+    position: absolute;
+    text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.tran{
+    position:absolute;
+z-index:2;
+}
