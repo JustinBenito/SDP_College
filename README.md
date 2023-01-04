@@ -7,8 +7,8 @@ This is part of the course activity.
 Develop the application based on the image provided in an external IDE or over there itself.
 then,
 - go to terminal on the project window
-- type node install
-- type npm server.js
+- type npm install
+- type node server.js
 - run test cases
 - once all succeed, submit the project
 
