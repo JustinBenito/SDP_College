@@ -47,8 +47,21 @@ gap: 5%;
     background-color: white;
    margin: -3px;
     text-align: center;
+    font-family: sans-serif;
 }
 
 .bois{
+    margin: 20px;
+}
+
+.villainsname{
+    color: black;
+    background-color: white;
+   margin: -3px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.vills{
     margin: 20px;
 }
