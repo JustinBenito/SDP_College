@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #7a9ad0;
+}
+
+#titleName{
+    margin: 0;
+    padding: 15px;
+    font-size: medium;
+    text-align: center;
+    background-color:purple;
+    color:white;
+}
+
+.veg{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#health1{
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#healthDescription1{
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+.healthtext{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/* Second */
+
+.exercise{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#health2{
+    width: 350px;
+    height: 300px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+#healthDescription2{
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Third */
+
+.statue{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#health3{
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#healthDescription3{
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Fourth */
+
+.water{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#health4{
+    width: 350px;
+    height: 300px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+#healthDescription4{
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Fifth */
+
+.tea{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#health5{
+    width: 350px;
+    height: 300px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+#healthDescription5{
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
