@@ -1,0 +1,67 @@
+body{
+    background-image: url(http://cdn.shopify.com/s/files/1/1140/8354/articles/best_marvel_comics.jpg?v=1635257623);
+margin: 0;
+}
+#TitleName{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+background-color: red;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.background{
+    overflow: auto;
+    margin: 5%;
+    background-color: rgba(0, 0, 0, 0.494);
+    z-index: 1;
+}
+
+#popularVillains {
+    color: white;
+}
+
+#popularHeros{
+    color: white;
+}
+
+
+.heroes .villains{
+display: flex;
+gap: 5%;
+    padding-right: 5%;
+}
+
+.heroes{
+    float: left;
+}
+
+.villains{
+    float: right;
+
+}
+
+.avengersname{
+    color: black;
+    background-color: white;
+   margin: -3px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.bois{
+    margin: 20px;
+}
+
+.villainsname{
+    color: black;
+    background-color: white;
+   margin: -3px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.vills{
+    margin: 20px;
+}
